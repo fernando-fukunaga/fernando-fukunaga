@@ -12,22 +12,22 @@ My name is Fernando Fukunaga and I want to become a backend developer, come and 
 [Brasilseg](https://www.bbseguros.com.br/seguros/quem-somos/sobre-a-brasilseg) as an intern in Solutions Architecture.
 
 ### 👨🏻‍💻 Technologies that I use on a regular basis:
-* Python
-* Flask
-* FastAPI
-* Java
-* AWS
-* Kong
-* MySQL
-* MongoDB
+* 🐍 Python
+* 🌐 Flask
+* ⚡ FastAPI
+* ☕ Java
+* 💭 AWS
+* 🦍 Kong
+* 🐬 MySQL
+* 🍃 MongoDB
 
-### 👨🏻‍💻 Technologies that I've already used:
-* PHP
-* Javascript
-* HTML & CSS
-* SQLite
-* Bootstrap
-* Linux
+### 💻 Technologies that I've already used:
+* 🐘 PHP
+* 💻 Javascript
+* 👨🏻‍🎨 HTML & CSS
+* ⚡ SQLite
+* 🏴‍☠️ Bootstrap
+* 🐧 Linux
 
 ### 👍🏻 Concepts I'm familiar with:
 * TDD
@@ -38,9 +38,10 @@ My name is Fernando Fukunaga and I want to become a backend developer, come and 
 * API Gateway
 * Scrum
 
-### 🔎 What do I want do learn or delve deeper into:
+### 🕵🏻‍♀️ What do I want to learn or delve deeper into:
 * Docker
 * Redis
+* Deployment
 * Nginx
 * SOLID
 * DevOps or DevSecOps
@@ -50,4 +51,4 @@ My name is Fernando Fukunaga and I want to become a backend developer, come and 
 
 ### 📞 You can contact me on:
 * My e-mail adress: fernandofukunaga14@gmail.com
-* My [LinkedIn account](https://www.linkedin.com/in/fernando-fukunaga-626a991b8/)
+* My [Linkedin account](https://www.linkedin.com/in/fernando-fukunaga-626a991b8/)
