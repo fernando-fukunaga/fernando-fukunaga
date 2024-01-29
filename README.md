@@ -1,5 +1,5 @@
 # 🌟 Welcome!!!
-My name is Fernando Fukunaga and I want to become a backend developer, come and see my personal projects!
+My name is Fernando Fukunaga and I am a backend developer, come and see my personal projects!
 
 ### 👨🏻‍🎓 I'm currently studying:
 * Computer Science at [Universidade São Judas Tadeu](https://www.usjt.br/).
@@ -9,45 +9,26 @@ My name is Fernando Fukunaga and I want to become a backend developer, come and 
 * English course at [Skill Idiomas](https://www.skill.com.br/).
 
 ### 💼 I work at:
-[Brasilseg](https://www.bbseguros.com.br/seguros/quem-somos/sobre-a-brasilseg) as an intern in Solutions Architecture.
+[Nova Tendência](https://ntendencia.com.br/) as a Junior Backend Developer.
 
-### 👨🏻‍💻 Technologies that I use on a regular basis:
-* 🐍 Python
-* 🌐 Flask
-* ⚡ FastAPI
-* ☕ Java
-* 💭 AWS
-* 🦍 Kong
-* 🐬 MySQL
-* 🍃 MongoDB
+### 👨🏻‍💻 Hard skills and technologies:
+* Python in the backend with Flask and FastAPI;
+* AWS infrastructure;
+* Docker containers;
+* CI/CD pipelines;
+* SQL databases such as MySQL and SQL Server;
+* MongoDB;
+* REST API pattern;
 
-### 💻 Technologies that I've already used:
-* 🐘 PHP
-* 💻 Javascript
-* 👨🏻‍🎨 HTML & CSS
-* ⚡ SQLite
-* 🏴‍☠️ Bootstrap
-* 🐧 Linux
+### 👍🏼 Soft skills:
+* I'm a really nice dude, seriously :D
 
-### 👍🏻 Concepts I'm familiar with:
-* TDD
-* Clean Architecture
-* Object-Oriented Programming
-* REST
-* Microsservices Architecture
-* API Gateway
-* Scrum
-
-### 🕵🏻‍♀️ What do I want to learn or delve deeper into:
-* Docker
-* Redis
-* Deployment
-* Nginx
-* SOLID
-* DevOps or DevSecOps
-* Integration Tests (I'm more into the unit ones right now)
-* Message Queues
-* Kubernetes
+### 🤓 I wanna learn more about:
+* Java for backend with Spring;
+* Message queuing;
+* Assynchronous programming;
+* DDD and SOLID;
+* Frontend stuff.
 
 ### 📞 You can contact me on:
 * My e-mail adress: fernandofukunaga14@gmail.com
